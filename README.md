@@ -7,13 +7,8 @@ In our article, we present a synthesis of established work in social media analy
 
 
 
-#### How do I cite this work?
 
-For now, cite [the Arxiv paper](https://arxiv.org/):
 
-```
-
-```
 
 ## Contact information
 
