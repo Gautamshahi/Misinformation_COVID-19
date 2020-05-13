@@ -1,5 +1,5 @@
-# An Exploratory Study of COVID-19 Misinformation on Twitter
-
+# A dataset for COVID-19 Misinformation on COVID-19Twitter
+## An Exploratory Study of COVID-19 Misinformation on Twitter
 
 This github repository corresponds to our research article titled **An Exploratory Study of COVID-19 Misinformation on Twitter**.
 
