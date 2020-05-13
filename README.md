@@ -6,8 +6,18 @@ This github repository corresponds to our research article titled **An Explorato
 In our article, we present a synthesis of established work in social media analytics and new streams in the detection and mitigation of misinformation applied to one of the most challenging topics for societies (and, possibly also scientific research): the COVID-19 crisis.
 
 
+#### How do I cite this work?
 
+For now, cite [the Arxiv paper](https://arxiv.org/pdf/2005.05710.pdf):
 
+```
+@article{devlin2018bert,
+  title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding},
+  author={Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina},
+  journal={arXiv preprint arXiv:1810.04805},
+  year={2018}
+}
+```
 
 
 ## Contact information
