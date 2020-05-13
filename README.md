@@ -1,4 +1,4 @@
-# Dataset for COVID-19 Misinformation on COVID-19Twitter
+# Dataset for COVID-19 Misinformation on Twitter
 
 This github repository corresponds dataset used for our research article titled **An Exploratory Study of COVID-19 Misinformation on Twitter**.
 
