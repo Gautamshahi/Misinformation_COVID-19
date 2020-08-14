@@ -21,6 +21,6 @@ Eprint = {arXiv:2005.05710},
 
 ## Contact information
 
-For help or issues using BERT, please submit a GitHub issue.
+For help or issues using data, please submit a GitHub issue.
 
 For personal communication related to our work, please contact Gautam Kishore Shahi(`gautamshahi16@gmail.com`), Anne Dirkson(`a.r.dirkson@liacs.leidenuniv.nl`) and Tim A. Majchrzak(`timam@uia.no`).
