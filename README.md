@@ -4,7 +4,7 @@ This github repository corresponds dataset used for our research article titled 
 
 In our article, we present a synthesis of established work in social media analytics and new streams in the detection and mitigation of misinformation applied to one of the most challenging topics for societies (and, possibly also scientific research): the COVID-19 crisis.
 
-We have used two datasets for our study. The first dataset are the tweets which have been mentioned by fact-checking websites and are classified as false or partially false and the second dataset consists of COVID-19 tweets collected from publicly available corpus TweetsCOV19 (January-April 2020)} and in-house crawling from May-July 2020. A detailed description of data collection process explain in section 3.1 of the paper}.}
+We have used two datasets for our study. The first dataset are the tweets which have been mentioned by fact-checking websites and are classified as false or partially false and the second dataset consists of COVID-19 tweets collected from publicly available corpus TweetsCOV19 (January-April 2020)} and in-house crawling from May-July 2020. A detailed description of data collection process explain in section 3.1 of the paper.
 
 
 #### How do I cite this work?
