@@ -27,5 +27,11 @@ For help or issues using data, please submit a GitHub issue.
 
 For personal communication related to our work, please contact Gautam Kishore Shahi(`gautamshahi16@gmail.com`), Anne Dirkson(`a.r.dirkson@liacs.leidenuniv.nl`) and Tim A. Majchrzak(`timam@uia.no`).
 
+## Data udpdate
+After submitting the paper, we keep crwaling the data and we update the new data file for dataset I, the latest version is Dataset-I(September 2020), it has around 1759 tweets in 4 different category. The format of data as follow
+
+###tweet_id - unique ID for each piece of text
+###tweet_class - class of the tweet defined by us.
+
 ## More udpdate
 For more update on the related publication on the topic of FakeCovid, please visit https://gautamshahi.github.io/FakeCovid/
