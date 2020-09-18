@@ -30,8 +30,8 @@ For personal communication related to our work, please contact Gautam Kishore Sh
 ## Data udpdate
 After submitting the paper, we keep crwaling the data and we update the new data file for dataset I, the latest version is Dataset-I(September 2020), it has around 1759 tweets in 4 different category. The format of data as follow
 
-###tweet_id - unique ID for each piece of text
-###tweet_class - class of the tweet defined by us.
+* tweet_id - unique ID for each piece of text
+* tweet_class - class of the tweet defined by us.
 
 ## More udpdate
 For more update on the related publication on the topic of FakeCovid, please visit https://gautamshahi.github.io/FakeCovid/
