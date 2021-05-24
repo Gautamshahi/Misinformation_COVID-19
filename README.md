@@ -15,7 +15,7 @@ We have shared the two datasets, one is sampled tweets from each day i.e, datase
 
 #### How do I cite this work?
 
-For now, cite [the OSNEM paper](https://doi.org/10.1016/j.osnem.2020.100104):
+Please cite the [OSNEM paper](https://doi.org/10.1016/j.osnem.2020.100104):
 
 ```
 @article{shahi2021exploratory,
