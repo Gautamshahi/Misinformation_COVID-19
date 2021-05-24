@@ -15,14 +15,17 @@ We have shared the two datasets, one is sampled tweets from each day i.e, datase
 
 #### How do I cite this work?
 
-For now, cite [the Arxiv paper](https://arxiv.org/pdf/2005.05710.pdf):
+For now, cite [the OSNEM paper](https://doi.org/10.1016/j.osnem.2020.100104):
 
 ```
-@misc{2005.05710,
-Author = {Gautam Kishore Shahi and Anne Dirkson and Tim A. Majchrzak},
-Title = {An Exploratory Study of COVID-19 Misinformation on Twitter},
-Year = {2020},
-Eprint = {arXiv:2005.05710},
+@article{shahi2021exploratory,
+  title={An exploratory study of covid-19 misinformation on twitter},
+  author={Shahi, Gautam Kishore and Dirkson, Anne and Majchrzak, Tim A},
+  journal={Online Social Networks and Media},
+  volume={22},
+  pages={100104},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
 
